@@ -203,14 +203,14 @@ export default function App() {
             </a>
           </nav>
 
-          <a
-            href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
-target="_blank"
-rel="noreferrer"
-            className="hidden rounded-full bg-slate-950 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-slate-900/15 transition hover:bg-blue-700 md:inline-flex"
-          >
-            Konsultasi Gratis
-          </a>
+<a
+  href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
+  target="_blank"
+  rel="noreferrer"
+  className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-cyan-400 px-7 py-4 text-sm font-black text-white shadow-xl shadow-blue-500/25 transition hover:scale-[1.01]"
+>
+  Chat via WhatsApp <ArrowRight className="h-4 w-4" />
+</a>
         </div>
       </header>
 
@@ -248,14 +248,14 @@ rel="noreferrer"
             </motion.p>
 
             <motion.div variants={fadeUp} className="mt-9 flex flex-col gap-4 sm:flex-row">
-              <a
-                href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
-target="_blank"
-rel="noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-cyan-400 px-7 py-4 text-sm font-black text-white shadow-2xl shadow-blue-600/30 transition hover:scale-[1.02]"
-              >
-                Diskusikan Project <ArrowRight className="h-4 w-4" />
-              </a>
+           <a
+  href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
+  target="_blank"
+  rel="noreferrer"
+  className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-cyan-400 px-7 py-4 text-sm font-black text-white shadow-xl shadow-blue-500/25 transition hover:scale-[1.01]"
+>
+  Chat via WhatsApp <ArrowRight className="h-4 w-4" />
+</a>
 
               <a
                 href="#layanan"
@@ -423,14 +423,14 @@ rel="noreferrer"
               setelah sistem digunakan.
             </p>
 
-            <a
-              href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
-target="_blank"
-rel="noreferrer"
-              className="mt-8 inline-flex items-center gap-2 rounded-full bg-slate-950 px-6 py-4 text-sm font-black text-white transition hover:bg-blue-700"
-            >
-              Mulai Konsultasi <ChevronRight className="h-4 w-4" />
-            </a>
+         <a
+  href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
+  target="_blank"
+  rel="noreferrer"
+  className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-cyan-400 px-7 py-4 text-sm font-black text-white shadow-xl shadow-blue-500/25 transition hover:scale-[1.01]"
+>
+  Chat via WhatsApp <ArrowRight className="h-4 w-4" />
+</a>
           </div>
 
           <div className="relative">
@@ -559,17 +559,14 @@ rel="noreferrer"
                 </ul>
 
                 <a
-                  href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
-target="_blank"
-rel="noreferrer"
-                  className={`mt-8 inline-flex w-full items-center justify-center gap-2 rounded-full px-5 py-4 text-sm font-black transition ${
-                    pkg.featured
-                      ? "bg-white text-slate-950 hover:bg-cyan-50"
-                      : "bg-slate-950 text-white hover:bg-blue-700"
-                  }`}
-                >
-                  Request Penawaran <ArrowRight className="h-4 w-4" />
-                </a>
+        <a
+  href="https://wa.me/628811944317?text=Halo%20Lala%20Integra%20Teknologi%2C%20saya%20ingin%20konsultasi%20layanan%20IT."
+  target="_blank"
+  rel="noreferrer"
+  className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-blue-600 to-cyan-400 px-7 py-4 text-sm font-black text-white shadow-xl shadow-blue-500/25 transition hover:scale-[1.01]"
+>
+  Chat via WhatsApp <ArrowRight className="h-4 w-4" />
+</a>
               </div>
             ))}
           </div>
